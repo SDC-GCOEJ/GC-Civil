@@ -22,7 +22,7 @@
                 <ul>
                 
                     <li><strong>Phone : </strong> 0257-2281522</li>
-                    <li><strong>Email : </strong> <a href="mailto:sdc@gcoej.ac.in">sdc@gcoej.ac.in</a></li>
+                    <li><strong>Email : </strong> <a href="mailto:admin@gcoej.ac.in">admin@gcoej.ac.in</a></li>
                     <li><strong>Address : </strong><br> Department of civil engineering, Govt. college of engineering, Jalgaon 425001</li>
                 </ul>
             </div>
